@@ -10,7 +10,7 @@ env:
   IMAGETAG:                       ""
   IMAGEREPLICAS:                  ""
   AGENTVMSIZE:                    ""
-  APPNAME:                        "finaltestdemo"
+  APPNAME:                        "appdemo"
   KUBERNETESSERVICENAME:          "demo-performance-aks"
   AZURELOADTESTINGNAME:           "demo-performance-alt"
   CLUSTERIP:                      ""
